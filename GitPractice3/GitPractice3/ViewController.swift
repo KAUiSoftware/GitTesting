@@ -19,6 +19,14 @@ class ViewController: UIViewController {
     
     // ...and this is another change...
     
+    func testFunction1 () {
+        print ("test 1")
+    }
+    
+    func testFunction2 () {
+        print ("test 2")
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
